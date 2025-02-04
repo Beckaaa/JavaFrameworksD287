@@ -1,7 +1,5 @@
   
 # D287 – JAVA FRAMEWORKS
-## Rebecca Webb 
-### Student ID: 011309828
 
 
 ### C.
